@@ -1,0 +1,6 @@
+{
+  "name": "InvestiScope - Analyse de Portefeuille",
+  "description": "Analyseur de portefeuille boursier complet avec décomposition d'ETFs, explorateur d'actions en temps réel, graphiques avancés et suivi de dividendes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
